@@ -1,2 +1,5 @@
 # candle
-candle p
+1.Yarn install
+2.Yarn start
+
+
