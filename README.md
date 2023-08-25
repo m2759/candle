@@ -1,6 +1,6 @@
 # candle
-1.Yarn install
+1.yarn install
 
-2.Yarn start
+2.yarn start
 
 
